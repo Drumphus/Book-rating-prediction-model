@@ -1,5 +1,7 @@
 # Book-rating-prediction-model
-Using a linear regression model to predict user ratings of books
+Using a linear regression model to predict user ratings of books.
+
+There is the jupyter notebook python file as well as the excel data set provided.
 
 Here are the packages used in the jupyter notebook:
 
